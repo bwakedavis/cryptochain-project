@@ -1,0 +1,23 @@
+{
+  "name": "cryptochain-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwakedavis/cryptochain-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwakedavis/cryptochain-project/issues"
+  },
+  "homepage": "https://github.com/bwakedavis/cryptochain-project#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
